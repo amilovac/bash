@@ -1,0 +1,289 @@
+Debian setup
+=================
+
+xfce
+mosh -https://mosh.mit.edu/
+screen
+ssh
+mc
+mutt
+finch
+ranger
+rsync
+i3wm - http://i3wm.org/
+http://orgmode.org/
+ledger -knjigovodstvo
+http://hledger.org
+notmuch mail indexing http://notmuchmail.org/
+incrontab  http://inotify.aiken.cz
+xmonad 
+howdoi -https://github.com/gleitz/howdoi/
+iwatch  http://iwatch.sourceforge.net/index.html
+lsyncd https://code.google.com/p/lsyncd/
+http://todotxt.com/
+borgbackup - https://borgbackup.github.io/index.html
+pwd.sh  - https://github.com/drduh/pwd.sh
+fish shell http://fishshell.com/?version=2.2
+http://gruntjs.com/
+nm-tool
+QMapShack - gps
+icinha.org
+https://www.fuel-infra.org
+http://shorewall.net
+https://help.ubuntu.com/community/UFW
+http://www.ipcop.org/
+FUSE fs - mount
+gnuPG
+bup - https://github.com/bup/bup
+http://src.anarc.at/bup-cron.git/
+https://github.com/skorokithakis/encbup
+https://oss.gonicus.de/labs/gosa LDAP management
+http://fai-project.org/features/  Automatic installation over network
+https://github.com/joeyh/etckeeper
+https://01.org/powertop
+https://buildroot.org/
+glances
+dmidecode
+memconf
+https://www.gnupg.org/
+http://offlineimap.org
+screenfetch
+https://app.asana.com/
+go-for-it!
+https://rtyley.github.io/bfg-repo-cleaner/
+letsencrypt - free ssl sertifikati
+http://blink1.thingm.com/
+git lfs
+http://ohmyz.sh/
+https://mongoose-os.com/
+https://minibianpi.wordpress.com/
+https://www.initialstate.com
+atop
+iftop
+https://www.microduino.cc/
+tig
+https://scratch.mit.edu
+stress-ng
+owasp zcr
+xmind.net
+glances
+http://fritzing.org/
+vtop
+resolveip
+https://www.schaeffer-ag.de/en/downloads/front_panel_designer/
+https://www.mindmup.com/#
+syslog-ng
+https://github.com/libfuse/sshfs ssh file system
+pythonanywhere:
+http://furius.ca/beancount/
+https://alexjj.com/finance/2016/02/27/managing-personal-finances-with-beancount/
+Locus map gps
+https://github.com/balloob/home-assistant  - za kucu
+cmus
+http://www.instructables.com/id/Setup-Home-Assistant-on-Raspberry-Pi/
+http://magic.io/blog/uvloop-make-python-networking-great-again/
+https://github.com/driv/upto
+http://maruos.com/#/
+https://github.com/miekg/rdup
+http://airbnb.io/caravel/
+http://xon.sh/
+https://wiki.debian.org/InstallingDebianOn/Samsung/ARMChromebook
+https://gist.github.com/BlaiseRitchie/c7da88d965880e6e5d2d
+https://www.cyrius.com/debian/iop/n2100/install/
+https://github.com/vysheng/tg
+CLAMav
+https://roundcube.net/
+http://rancher.com/rancher-os/
+https://github.com/nojhan/liquidprompt
+https://syncthing.net/ - umesto git-annexa!!!!
+http://www.lulu.com/
+http://www.openhab.org/
+http://www.keepalived.org/
+https://nextthing.co/pages/chip 9$  racunar
+https://mmonit.com/monit/
+autossh
+webmin.com
+proxmox.com za kvm
+https://www.qnap.com/i/en/product/model.php?II=142&event=3 NAS
+https://gist.github.com/franck/1415908 monit files
+tmux
+https://github.com/chriskempson/base16
+http://beta.frikanalen.no/guide/
+encryptfs
+https://github.com/gitbucket/gitbucket
+https://www.sparkleshare.org/
+https://github.com/jimeh/git-aware-prompt
+https://github.com/magicmonty/bash-git-prompt
+fish
+https://conemu.github.io/
+https://jekyllrb.com/
+http://fabrikor.eu/goodenoughcnc-hybrid   (open source cnc i 3d printer)
+http://keithp.com/blogs/chaoskey/
+QNAP for NAS
+https://notmuchmail.org/
+http://ikiwiki.info/
+https://ulterius.xyz/
+diffoscope
+tftp
+at
+SMART - monitor service and restart
+inxi
+https://github.com/so-fancy/diff-so-fancy
+http://goldenrunner.com/
+https://wiki.debian.org/FreedomBox/Features
+https://getnikola.com/
+apt-offline
+https://www.yoctoproject.org/
+wttr.in
+https://github.com/nojhan/liquidprompt
+xmonad
+http://jonls.dk/redshift/ - menja osvetljenost ekrana u zavisnosti od vremena dana
+GeoClue
+musicplayerdaemon
+https://github.com/gpakosz/.tmux  - ulepsaj tmux
+https://samy.pl/poisontap/
+http://grafana.org/
+https://graphiteapp.org/
+http://automation.better-than.tv/
+boot2docker - https://github.com/boot2docker/boot2docker
+http://boot2docker.io/
+https://play.google.com/store/apps/details?id=net.routix.mqttdash
+slurm
+https://wiki.alpinelinux.org = mala distribucija
+https://hyper.is/
+https://github.com/mps-youtube/mps-youtube
+https://gottcode.org/focuswriter/
+appstreamcli
+OpenShot 
+googler
+https://github.com/moul/advanced-ssh-config
+https://github.com/rusher81572/picluster
+https://www.pine64.org/
+http://nanopi.io/nanopi-neo.html
+https://www.armbian.com/
+https://home-assistant.io/
+http://www.damonlynch.net/rapid/features.html
+https://clusterhq.com/fli/introduction/
+https://github.com/warner/magic-wormhole
+https://github.com/bnb/awesome-hyper
+laptop-mode-tools
+http://www.darktable.org  za slike odlican
+http://thelaststraw.org/
+https://www.system-rescue-cd.org/SystemRescueCd_Homepage
+https://nextcloud.com/
+http://www.hardkernel.com/main/products/prdt_info.php?g_code=G143452239825
+https://etcher.io/
+https://www.dovecot.org/
+http://nodered.org/ IoT
+https://github.com/simeji/jid#jid
+http://nobelgrid.eu/
+http://www.orangepi.org SBC jeftin
+http://www.openhab.org/
+https://github.com/typicode/tlapse
+https://whispersystems.org/blog/just-signal/
+https://espressif.com/en/products/hardware/esp-wroom-32/overview
+http://metron.incubator.apache.org/
+https://satnogs.org/
+https://getkap.co/
+http://www.evilmadscientist.com - crtanje po jajima
+https://github.com/ccrisan/motioneyeos/wiki
+https://prometheus.io
+CoreFreq 
+http://www.piboards.com/2017/03/07/a-look-at-hassbian-raspberry-pi-for-home-automation/
+https://home-assistant.io/
+http://rambox.pro/
+dcfldd
+b2sum
+http://mooseframework.org/
+https://fishshell.com/
+http://warmplace.ru/soft/pixitracker/
+http://www.warmplace.ru/soft/sunvox/ zvuk
+https://endlessos.com/
+androidstudio
+https://www.plex.tv/
+https://github.com/scoin/github-dl
+https://mpv.io/
+http://playground.arduino.cc/Learning/CommandLine
+https://cmus.github.io
+https://github.com/oxyum/sigrok logicka sonda
+https://github.com/coderholic/pyradio
+https://github.com/zolrath/wemux
+toilet
+asciiview
+http://www.asciimation.co.nz/#
+https://github.com/roflson/pyobd
+https://github.com/blueman-project/blueman
+https://github.com/StackExchange/blackbox
+https://davedavenport.github.io/rofi/
+https://github.com/zachlatta/sshtron
+http://chipmusic.org/
+http://www.offlineimap.org/  pocketchip
+https://www.neomutt.org/  umesto muta
+notmuch mail
+alot frontend
+rxvt
+mongoose os
+http://www.brendangregg.com/linuxperf.html
+huntergregal
+https://github.com/n8fr8/talks/blob/master/onion_things/Internet%20of%20Onion%20Things.pdf
+http://valentina-project.org/
+http://www.rainbowstream.org/
+https://github.com/nojhan/liquidprompt
+gitextensions
+http://cheat.sh/
+https://graphiteapp.org
+https://github.com/etsy/statsd - collect statistics from app
+https://github.com/syncthing/syncthing-inotify
+https://github.com/ranger/ranger cmdline file manager
+https://github.com/trehn/termdown
+http://sup-heliotrope.github.io
+https://trevordmiller.com/projects/nova
+https://github.com/rastapasta/mapscii mape iz cmdline
+https://circuits.io/
+https://pagekite.net/  public ip
+https://github.com/dylanaraps/neofetch
+https://dev.yorhel.nl/ncdu
+https://github.com/klamonte/qodem
+https://www.cyberciti.biz/open-source/awesome-complete-open-source-mail-servers-solutions-for-linux-unix/
+https://github.com/pi-hole/pi-hole
+https://github.com/davidgiven/wordgrinder (https://github.com/davidgiven/wordgrinder) wordgrinder - cmdline word processor
+https://icculus.org/obdgpslogger/
+https://ring.cx FREE CHAT, VIDEO, AUDIO
+vnstat
+https://github.com/gwilken/ariadne-io
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Najbolji potrošački DSLR fotoaparat 2015-2016 	Nikon D5500
+http://at.yamaha.com/de/products/audio-visual/hifi-components/stereo-receivers/r-n500_g/?mode=model
